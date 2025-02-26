@@ -3,8 +3,8 @@
 </script>
 
 <main>
-	<h1>Hello Sir{name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<h1>42</h1>
+	<p>{name}'s Answer to the Ultimate Question of Life, the Universe, and Everything</p>
 </main>
 
 <style>
